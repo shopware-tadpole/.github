@@ -1,4 +1,4 @@
-Welcome to Shopware Tadpole organization!
+Welcome to the Shopware Tadpole organization!
 
 This is a pond for open source projects connected to Shopware. Grown little tadpoles may become [FrOSh](https://github.com/friendsofshopware) one day if they survive and so may find the way to [Shopware Store](https://store.shopware.com/).
 
